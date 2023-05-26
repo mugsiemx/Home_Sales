@@ -3,7 +3,7 @@ Module 22 Challenge - DUE 5 June 2023
 
 Home Sales Key Metrics
 
-![House Keys]()
+![House Keys](https://github.com/mugsiemx/Home_Sales/blob/main/Images/pexels-oleksandr-pidvalnyi-7599735.jpg)
 
 In this challenge, we use our knowledge of SparkSQL to determine key metrics about home sales data. Then we use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
